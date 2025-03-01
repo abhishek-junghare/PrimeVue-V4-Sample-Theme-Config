@@ -1,7 +1,7 @@
 import { createApp } from "vue";
 import PrimeVue from "primevue/config";
-import Lara from "@primevue/themes/lara";
-import { definePreset } from "@primevue/themes";
+import Lara from "@primeuix/themes/lara";
+import { definePreset } from "@primeuix/themes";
 
 const app = createApp(App);
 
